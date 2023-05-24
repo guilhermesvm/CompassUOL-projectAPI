@@ -26,17 +26,24 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 
 
 ### Práticas Fundamentais
-| Papéis       |    
+| Scrum Team   |    
 |--------------|
 |Scrum Master  |
 |Product Owner |
 |Dev Team      |
+
+**Scrum Team**: pequeno time ágil de profissionais autônomos com um objetivo final comum:a entrega do produto.<br/>
+**Scrum Master**:  é o responsável por orientar, treinar o time com os melhores valores e práticas do Scrum. <br/>
+**Product Owner**: é o líder do produto, decide quais recursos e funcionalidades serão implementados,e em qual ordem. possui contato com  os backholders.<br/>
+**Dev Team**: constroem e executam o projeto.<br/>
 
 |Eventos                   |                 |
 |--------------------------|-----------------|
 |Sprint Planning           |Sprint Execution | 
 |Daily Scrum               |Scrum Review     |
 |Retrospective Sprint      |                 |
+
+➡️**Sprint Planning:
 
 | Artefatos     |    
 |---------------|
