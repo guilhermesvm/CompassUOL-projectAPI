@@ -16,7 +16,7 @@ Ferramenta utilizada para classificar de tarefas com base em sua urgência e imp
 Foi feito um estudo sobre o software, termos, comando, houve a criação de contas e o download.
 
 [Git](https://git-scm.com/) - Sistema de controle de direcionamento em linha de comando. É possível registrar todas as mudanças feitas no código de um projeto, evitando que algo importante se perca.
-[GitHub](https://github.com/) - Interface de armazenamento e hospedagem de arquivos Git em um repositório nuvem.
+[GitHub](https://github.com/) - Interface de armazenamento e hospedagem de arquivos Git em um repositório nuvem.<br>
 [GUI Clients](https://git-scm.com/downloads/guis) - Interface visual alternativa para o Git.
 
  <details><summary>Termos Técnicos</summary>
