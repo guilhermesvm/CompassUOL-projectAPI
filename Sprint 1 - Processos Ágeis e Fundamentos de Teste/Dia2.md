@@ -25,8 +25,8 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 🕸**Adaptação**: Adaptação do projeto, mesmo enquanto do produto está sendo desenvolvido.
 
 
-### Práticas Fundamentais
-| Scrum Team   |              |         |
+### Scrum Team
+| Papéis       |              |         |
 |--------------|--------------|---------|
 |Scrum Master  |Product Owner | Dev Team| 
 
@@ -35,16 +35,36 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 **Product Owner**: é o líder do produto, decide quais recursos e funcionalidades serão implementados,e em qual ordem. possui contato com  os backholders.<br/>
 **Dev Team**: constroem e executam o projeto.<br/>
 
-|Eventos                   |                 |
-|--------------------------|-----------------|
-|Sprint Planning           |Sprint Execution | 
-|Daily Scrum               |Scrum Review     |
-|Retrospective Sprint      |                 |
+### Sprints
 
-➡️**Sprint Planning:
+|Eventos                   |                 |                      |
+|--------------------------|-----------------|----------------------|
+|Sprint Planning           |Daily Scrum      |Retrospective Sprint  | 
+|Sprint Execution          |Scrum Review     |                      |
 
-| Artefatos     |    
-|---------------|
-|Product Backlog|
-|Sprint Backlog |
-|Delivery       |
+
+➡️**Sprint Planning**:
+➡️**Sprint Execution**:
+➡️**Daily Scrum**:
+⬅️**Scrum Review**:
+🔁**Retrospective Sprint**:
+
+
+
+
+### Artefatos Scrum
+
+
+| Artefatos     |              |        |
+|---------------|--------------|--------|
+|Product Backlog|Sprint Backlog|Delivery|
+
+**Product Backlog**
+**Sprint Backlog**
+**Delivery**
+
+
+
+###Exemplo de um Scrum
+![exemplo de scrum](https://keeps.com.br/wp-content/uploads/2022/07/Scrum_esquema-10-1-1024x536.png)
+
