@@ -32,7 +32,7 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 |Product Owner |
 |Dev Team      |
 
-|Eventos                                     |
+|Eventos                   |                 |
 |--------------------------|-----------------|
 |Sprint Planning           |Sprint Execution | 
 |Daily Scrum               |Scrum Review     |
