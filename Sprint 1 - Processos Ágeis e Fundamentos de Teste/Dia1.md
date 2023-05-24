@@ -51,9 +51,9 @@ Estruturas adicionais/opcionais para deixar um ReadMe mais bonito e útil:
 - Contribuições, doações, licenças, etc.
 
 ## Ferramentas
-- Miro
-- Banner Maker
-- MakeAReadME 
-- Shields.io
+- [Miro](https://miro.com/pt/)
+- [Banner Maker](https://banner.godori.dev)
+- [MakeAReadME](https://www.makeareadme.com/)
+- [Shields.io](https://shields.io/)
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
