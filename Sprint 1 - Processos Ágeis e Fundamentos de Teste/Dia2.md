@@ -26,9 +26,9 @@ Adaptação: Adaptação do projeto, quanto do produto que está sendo desenvolv
 
 
 ### Práticas Fundamentais
+| Papéis       |
+|--------------|
 |Scrum Master: |
-----------------
 |Product Owner |
----------------
-|Dev Team |
------------------
+|Dev Team      |
+
