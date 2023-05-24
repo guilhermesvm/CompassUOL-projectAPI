@@ -20,15 +20,10 @@ Foi feito um estudo sobre o software, termos, comandos no git cmd, houve a cria�
 ### Termos Técnicos
 
 **Branch** - ramificação da ordem cronológica de um projeto, com o fim de facilitar testes e experimentos em novos códigos em "linhas do tempo" diferente.
-
 **Commit** - postagem de alterações de projetos.
-
 **Merge** - junção de duas branchs, isso ocorre quando há alterações feitas por dois usuários diferentes no mesmo arquivo (não funciona se for na mesma linha).
-
 **Remote** - linka um repositório criado em sua própria máquina em um repositório no GitHub.
-
 **Push** - utiliza-se para inserir um "Commit" durante o "Remote".
-
 **Pull** - utiliza-se puxar um repositório do GitHub para a própria máquina. 
 
 ### Comandos Git CMD
