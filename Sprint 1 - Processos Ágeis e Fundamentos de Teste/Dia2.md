@@ -25,12 +25,10 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 🕸**Adaptação**: Adaptação do projeto, mesmo enquanto do produto está sendo desenvolvido.
 
 
-### Práticas Fundamentais
-| Scrum Team   |    
-|--------------|
-|Scrum Master  |
-|Product Owner |
-|Dev Team      |
+### Scrum Team
+|--------------|-------------|--------- |
+|Scrum Master  |Product Owner| Dev Team |
+
 
 **Scrum Team**: pequeno time ágil de profissionais autônomos com um objetivo final comum:a entrega do produto.<br/>
 **Scrum Master**:  é o responsável por orientar, treinar o time com os melhores valores e práticas do Scrum. <br/>
