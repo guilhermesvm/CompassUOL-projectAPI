@@ -20,8 +20,8 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 > É utilizado para que uma aplicação possa ser desenvolvida de maneira mais ágil, rápida e sem problemas que já foram resolvidos por outros profissionais.
 
 ### Pilares Fundamentais
-:book: **Transparência**: Transparênciados processos, requisitos de entrega e status dos projetos.
-:magnifying glass: **Inspeção**: Inspeção constante do que está sendo feito em um projeto a partir de reuniões diárias.
+:book: **Transparência**: Transparênciados processos, requisitos de entrega e status dos projetos.<br>
+:magnifying glass: **Inspeção**: Inspeção constante do que está sendo feito em um projeto a partir de reuniões diárias.<br>
 Adaptação: Adaptação do projeto, quanto do produto que está sendo desenvolvido.
 
 
