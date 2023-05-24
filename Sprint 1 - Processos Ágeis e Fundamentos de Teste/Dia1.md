@@ -45,7 +45,7 @@ README.md é um arquivo com extensão .md (Markdown), ferramenta de conversão d
 
 Estruturas adicionais/opcionais para deixar um ReadMe mais bonito e útil:
 - Logo ou Banner;
-- Badges(selos);
+- Badges (selos);
 - Descrição curta do projeto;
 - Modos de Instalação e Uso;
 - GIF;
