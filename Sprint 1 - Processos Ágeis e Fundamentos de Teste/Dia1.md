@@ -42,10 +42,18 @@ Foi feito um estudo sobre o software, termos, comandos no git cmd, houve a cria�
 ## ReadMe
 README.md é um arquivo com extensão .md (Markdown), ferramenta de conversão de texto em HTML. É utilizado para compreensão de instruções e objetivos de um projeto.
 
+Estruturas adicionais/opcionais para deixar um ReadMe mais bonito e útil:
+- Logo ou Banner;
+- Badges(selos);
+- Descrição curta do projeto;
+- Modos de Instalação e Uso;
+- GIF;
+- Contribuições, doações, licenças, etc.
+
 ## Ferramentas
 - Miro
 - Banner Maker
 - MakeAReadME 
 - Shields.io
-
+- [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
