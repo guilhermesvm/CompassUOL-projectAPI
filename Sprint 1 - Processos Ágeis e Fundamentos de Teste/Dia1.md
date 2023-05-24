@@ -1,4 +1,4 @@
-# Dia 1 | Assuntos |  22/05/23
+--# Dia 1 | Assuntos |  22/05/23
 - [Onboard Geral](#Onboard Geral)
 - [Organização](#Matriz de Eisenhowe)
 - [Git, GitHub e GitLab](#Git, GitHub e GitLab)
@@ -48,9 +48,9 @@ Foi feito um estudo sobre o software, termos, comandos no git cmd, houve a cria�
 README.md é um arquivo com extensão .md (Markdown), ferramenta de conversão de texto em HTML. É utilizado para compreensão de instruções e objetivos de um projeto.
 
 ## Ferramentas
-Miro
-Banner Maker
-MakeAReadME 
-Shields.io
+-Miro
+-Banner Maker
+-MakeAReadME 
+-Shields.io
 
 
