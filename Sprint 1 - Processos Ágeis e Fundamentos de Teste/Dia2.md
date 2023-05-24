@@ -26,11 +26,15 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 
 
 ### Práticas Fundamentais
-| Papéis       |    |Eventos                                     |
-|--------------|    |--------------------------|-----------------|
-|Scrum Master  |    |Sprint Planning           |Sprint Execution |  
-|Product Owner |    |Daily Scrum               |Scrum Review     |
-|Dev Team      |    |Retrospective Sprint                        |
-                    
-                
+| Papéis       |    
+|--------------|
+|Scrum Master  |
+|Product Owner |
+|Dev Team      |
+
+|Eventos                                     |
+|--------------------------|-----------------|
+|Sprint Planning           |Sprint Execution | 
+|Daily Scrum               |Scrum Review     |
+|Retrospective Sprint                        |
 
