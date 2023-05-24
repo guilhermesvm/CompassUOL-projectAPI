@@ -1,5 +1,5 @@
 # Projeto Compass.UOL
-![Compass banner](file:///C:/Users/Usu%C3%A1rio/Desktop/Sem%20t%C3%ADtulo.png)
+![Compass banner](https://d1.awsstatic.com/logos/Amazon%20MSK%20logos/COMPASS-LOGO.68deff1f584bea0767845872fa8f23b927d25149.png)
 
 Olá! Este será um repositório de conteúdos abordados durante a trilhagem de estudos do Programa de Bolsas [Compass.UOL](compass.uol/) - Automação de Testes em Java Backend, com o começo em 22/05/2023 e duração de 3 meses. 
 
