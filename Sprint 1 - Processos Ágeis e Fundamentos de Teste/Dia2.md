@@ -36,5 +36,5 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 |--------------------------|-----------------|
 |Sprint Planning           |Sprint Execution | 
 |Daily Scrum               |Scrum Review     |
-|Retrospective Sprint                        |
+|Retrospective Sprint      |                 |
 
