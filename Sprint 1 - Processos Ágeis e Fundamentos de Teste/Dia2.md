@@ -1,1 +1,19 @@
+# Dia 2 
 
+- Comunicação em Equipe
+-
+-
+
+## Comunicação em Equipe
+Foi introduzido um slideshow com temas importantes que uma equipe bem estruturada e com uma boa relação deve ter:
+- A constante troca de informações e ideias;
+- Incentivar a cultura de feedback;
+- Diferencial de um líder para um chefe;
+- Jeitos de tornar reuniões mais estruturadas, produtivas e efetivas;
+- Momentos de descontração que criam um laço amigável mais forte entre os membros;
+
+## Scrum
+É um framework simples que gerencia projetos complexos.
+
+> Framework é uma estrutura que serve de base para a construção de aplicações web de finalidade específica cujo desenvolvimento pode ser muito custoso e/ou problemático.
+>Com um framework é possível construir sites, aplicativos e softwares a partir de um esqueleto pré-definido, alterando apenas demais particularidades
