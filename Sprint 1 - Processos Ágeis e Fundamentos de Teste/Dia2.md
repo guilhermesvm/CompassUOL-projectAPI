@@ -31,11 +31,16 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 |Scrum Master  |
 |Product Owner |
 |Dev Team      |
-<div align="center">
+
 |Eventos                   |                 |
 |--------------------------|-----------------|
 |Sprint Planning           |Sprint Execution | 
 |Daily Scrum               |Scrum Review     |
 |Retrospective Sprint      |                 |
-</div>
+
+| Artefatos     |    
+|---------------|
+|Product Backlog|
+|Sprint Backlog |
+|Delivery       |
 
