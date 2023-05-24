@@ -21,7 +21,7 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 
 ### Pilares Fundamentais
 📖 **Transparência**: Transparênciados processos, requisitos de entrega e status do projeto.<br/>
-🔎 **Inspeção**: Inspeção constante do que está sendo feito em um projeto a partir de reuniões diárias.<br/>
+🔎 **Inspeção**: Inspeção constante do que está sendo feito em um projeto a partir de reuniões diárias, afim de detectador problemas e adversidades.<br/>
 🕸**Adaptação**: Adaptação do projeto, mesmo enquanto do produto está sendo desenvolvido.
 
 
