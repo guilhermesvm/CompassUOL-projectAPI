@@ -15,11 +15,11 @@ Ferramenta utilizada para classificar de tarefas com base em sua urgência e imp
 ### Git - GitLab - GitHub
 Foi feito um estudo sobre o software, termos, comando, houve a criação de contas e o download.
 
-[Git](https://git-scm.com/) - Sistema de controle de direcionamento em linha de comando. É possível registrar todas as mudanças feitas no código de um projeto, evitando que algo importante se perca <br/>
-[GitHub](https://github.com/) - Interface de armazenamento e hospedagem de arquivos Git em um repositório nuvem.<br/>
-[GUI Clients](https://git-scm.com/downloads/guis) - Interface visual alternativa para o Git.<br/>
- -Termos Técnicos  <br/>
- 
+[Git](https://git-scm.com/) - Sistema de controle de direcionamento em linha de comando. É possível registrar todas as mudanças feitas no código de um projeto, evitando que algo importante se perca.
+[GitHub](https://github.com/) - Interface de armazenamento e hospedagem de arquivos Git em um repositório nuvem.
+[GUI Clients](https://git-scm.com/downloads/guis) - Interface visual alternativa para o Git.
+
+ <details><summary>-Termos Técnicos</summary>
 **Branch** - ramificação da ordem de criação cronológica de um projeto, com o fim de facilitar que testes e experimentos de novos código sejam feitos em "linhas do tempo" diferentes.
 
 **Commit** - postagem de alterações de projetos.
@@ -30,5 +30,5 @@ Foi feito um estudo sobre o software, termos, comando, houve a criação de cont
 
 **Push** - utiliza-se para inserir um "Commit" durante o "Remote".
 
-**Pull** - utiliza-se puxar um repositório do GitHub para a própria máquina.
+**Pull** - utiliza-se puxar um repositório do GitHub para a própria máquina.</details> 
 
