@@ -20,15 +20,16 @@ Foi feito um estudo sobre o software, termos, comando, houve a criação de cont
 [GUI Clients](https://git-scm.com/downloads/guis) - Interface visual alternativa para o Git.
 
  <details><summary>Termos Técnicos</summary>
-Branch - ramificação da ordem cronológica de um projeto, com o fim de facilitar testes e experimentos em novos códigos em "linhas do tempo" diferentes.
 
-Commit - postagem de alterações de projetos.
+**- Branch** - ramificação da ordem cronológica de um projeto, com o fim de facilitar testes e experimentos em novos códigos em "linhas do tempo" diferentes.
 
-Merge - junção de duas branchs, isso ocorre quando há alterações feitas por dois usuários diferentes no mesmo arquivo (não funciona se for na mesma linha).
+**- Commit** - postagem de alterações de projetos.
 
-Remote - linka um repositório criado em sua própria máquina em um repositório no GitHub
+**- Merge** - junção de duas branchs, isso ocorre quando há alterações feitas por dois usuários diferentes no mesmo arquivo (não funciona se for na mesma linha).
 
-Push - utiliza-se para inserir um "Commit" durante o "Remote".
+**- Remote** - linka um repositório criado em sua própria máquina em um repositório no GitHub
 
-Pull - utiliza-se puxar um repositório do GitHub para a própria máquina.</details> 
+**- Push** - utiliza-se para inserir um "Commit" durante o "Remote".
+
+**- Pull** - utiliza-se puxar um repositório do GitHub para a própria máquina.</details> 
 
