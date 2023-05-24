@@ -21,3 +21,14 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 
 ### Pilares Fundamentais
 :book: **Transparência**: Transparênciados processos, requisitos de entrega e status dos projetos.
+:magnifying glass: **Inspeção**: Inspeção constante do que está sendo feito em um projeto a partir de reuniões diárias.
+Adaptação: Adaptação do projeto, quanto do produto que está sendo desenvolvido.
+
+
+### Práticas Fundamentais
+|Scrum Master: |
+----------------
+|Product Owner |
+---------------
+|Dev Team |
+-----------------
