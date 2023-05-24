@@ -15,5 +15,5 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 ## Scrum
 É um framework simples que gerencia projetos complexos.
 
-> Framework é uma estrutura base para a construção de aplicações web de finalidade específica, cujo desenvolvimento pode ser muito custoso e/ou problemático. Com um framework é possível construir sites, aplicativos e softwares a partir de um esqueleto pré-definido, alterando apenas demais particularidades
+> Framework é uma estrutura base para a construção de aplicações web de finalidade específica, cujo desenvolvimento pode ser muito custoso e/ou problemático. Com um framework é possível construir sites, aplicativos e softwares a partir de um esqueleto pré-definido, alterando apenas demais particularidades. <br>
 > É utilizado para que uma aplicação possa ser desenvolvida de maneira mais ágil, rápida e sem problemas que já foram resolvidos por outros profissionais.
