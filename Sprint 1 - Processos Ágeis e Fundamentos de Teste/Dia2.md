@@ -26,7 +26,7 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 
 
 ### Práticas Fundamentais
-| Scrum Team   |                        |
+| Scrum Team   |              |         |
 |--------------|--------------|---------|
 |Scrum Master  |Product Owner | Dev Team| 
 
