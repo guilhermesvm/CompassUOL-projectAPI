@@ -44,3 +44,13 @@ Foi feito um estudo sobre o software, termos, comandos no git cmd, houve a cria�
 - git clone <link_repositório>: clona um repositório do GitHub para a máquina que está utilizando;
 - git pull: atualiza no repositório atual da máquina alterações que foram realizada no repositório do GitHub.
 
+## ReadMe
+README.md é um arquivo com extensão .md (Markdown), ferramenta de conversão de texto em HTML. É utilizado para compreensão de instruções e objetivos de um projeto.
+
+## Ferramentas
+Miro
+Banner Maker
+MakeAReadME 
+Shields.io
+
+
