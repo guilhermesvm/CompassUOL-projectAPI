@@ -5,6 +5,7 @@
         <li>Organização</li>
         <li>Git, GitHub e GitLab</li>
         <li> ReadMe </li>
+    </ul>
 </div>
 # Dia 1 |  22/05/23
 
