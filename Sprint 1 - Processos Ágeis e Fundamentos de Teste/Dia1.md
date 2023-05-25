@@ -21,8 +21,8 @@ Foi feito um estudo sobre o software, termos, comandos no git cmd, houve a cria�
 ### Termos Técnicos
 
 **Branch** - ramificação da ordem cronológica de um projeto, com o fim de facilitar testes e experimentos em novos códigos em "linhas do tempo" diferente.<br>
-**Commit** - postagem de alterações de projetos.<br>
-**Merge** - junção de duas branchs, isso ocorre quando há alterações feitas por dois usuários diferentes no mesmo arquivo (não funciona se for na mesma linha).<br>
+**Commit** - alteração no projeto.<br>
+**Merge** - junção de duas branchs, isso ocorre quando há alterações feitas por dois usuários diferentes no mesmo arquivo (não funciona se for na mesma linha de um código.<br>
 **Remote** - linka um repositório criado em sua própria máquina em um repositório no GitHub.<br>
 **Push** - utiliza-se para inserir um "Commit" durante o "Remote".<br>
 **Pull** - utiliza-se puxar um repositório do GitHub para a própria máquina. <br>
@@ -31,7 +31,7 @@ Foi feito um estudo sobre o software, termos, comandos no git cmd, houve a cria�
 - git init: inicía um repositório principal (main) vazio;
 - git add: envia um arquivo para a área de espera (staging);
 - git status: mostra as mudanças a serem comitadas (atualizadas);
-- git commit -m "mensagem": realiza mudanças no arquivo que estava em stating. mensagem = título do commit;
+- git commit -m "mensagem": realiza mudanças no arquivo que estava em staging. (mensagem = título do commit);
 - git branch -M main: muda o nome da branch principal de "master" para "main";
 - git remote add origin <link_repositorio_github>: cria uma conexão entre o repositório local da máquina e o repositório do GitHub;
 - git push -u origin master: puxa arquivos do repositório local para o repositório do GitHub;
