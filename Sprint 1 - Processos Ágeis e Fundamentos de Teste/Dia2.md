@@ -1,7 +1,10 @@
-# Dia 2 
-
-- Comunicação em Equipe
-- Scrum
+<div align="center">
+    ![banner](link)
+    <h1> Dia 2 </h1>
+    <p> [Comunicação em Equipe](#Comunicação em Equipe)
+    <p> [Scrum] </p>(#Scrum)
+    <img src="https://keeps.com.br/wp-content/uploads/2022/07/Scrum_esquema-10-1-1024x536.png" width="400px">
+</div>
 
 ## Comunicação em Equipe
 Foi introduzido um slideshow com temas importantes que uma equipe bem estruturada e com uma boa relação deve ter:
@@ -39,7 +42,7 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 |--------------------------|-----------------|----------------------|--------------|--------------------|
 |Sprint Planning           |Sprint Execution |Daily Scrum           | Scrum Review |Retrospective Sprint|
 
-➡️**Sprint Planning**:  É uma reunião inicial entre o Scrum Team. O PO apresenta o Product Backlog e a equipe determina quais estórias serão capazes de completar durante a Sprint que está por começar.<br/>
+➡️**Sprint Planning**:  É uma reunião inicial entre o Scrum Team. O PO apresenta o Product Backlog e a equipe determina quais histórias serão capazes de completar durante a Sprint que está por começar.<br/>
 ➡️**Sprint Execution**: Desenvolvimento do projeto.<br/>
 ➡️**Daily Scrum**: Reunião diária feita com o Time Dev, que tem duração de até 15 minutos e nela são discutidos 3 pontos: “O que você fez ontem?”, “O que você fará hoje? ” e “Houve algum impedimento?”.<br/>
 ⬅️**Scrum Review**: Tem por objetivo a inspeção do Incremento desenvolvido naquela Sprint e adaptação do Product Backlog caso necessário.<br/>
@@ -52,13 +55,13 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 |Product Backlog|Sprint Backlog|Delivery/Increment|
 
 **Product Backlog**: PO descreve e prioriza por importância os itens que estão do topo à base do Backlog, esses devem estar claros para o Dev Team, com o fim de entregar maior valor de negócio ao produto. <br/>
-**Sprint Backlog**: Lista de estórias divididas que precisam ser feitas durante uma Sprint, gerando a Sprint Task.<br/>
-**Delivery/Increment**: Soma de todas estórias completados durante a Sprint e das Sprints anteriores. No final, um novo incremento deve ter atendido todos os requisitos e ser aprovado para ser considerado "Done".
+**Sprint Backlog**: Lista de histórias divididas que precisam ser feitas durante uma Sprint, gerando a Sprint Task.<br/>
+**Delivery/Increment**: Soma de todas histórias completados durante a Sprint e das Sprints anteriores. No final, um novo incremento deve ter atendido todos os requisitos e ser aprovado para ser considerado "Done".
 
 
 ### Exemplo de um Scrum na Prática
 - PO apresenta à todos a visão de produto dos stakeholders;
-- PO, com auxílio do Scrum Master, organiza a visão em estórias que serão inseridas no Product Backlog ;
+- PO, com auxílio do Scrum Master, organiza a visão em histórias que serão inseridas no Product Backlog ;
 - Sprint Planning e Sprint Backlog;
 - Sprint Execution;
 - Sprint Review;
@@ -69,5 +72,5 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 ![exemplo de scrum](https://keeps.com.br/wp-content/uploads/2022/07/Scrum_esquema-10-1-1024x536.png)
 
 ### Ferramentas
-- BurndownChat: gráfico que demonstra uma relação de estórias à fazer com o tempo disponível.
+- BurndownChat: gráfico que demonstra uma relação de histórias à fazer com o tempo disponível.
 - Kanban: mostra as tarefas em espera, andamento e concluídas, ajudando na visualização e organização do fluxo de trabalho.
