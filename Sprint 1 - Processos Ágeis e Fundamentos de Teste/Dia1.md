@@ -1,19 +1,11 @@
 <div align="center">
 ![banner](link)
-    <h1> Dia 1| 22/05/23 </h1>
-    <p>Onboard Geral</p>
+    <h1> Dia 1 | 22/05/23 </h1>
+    <p>[Organização](#Matriz de Eisenhower)</p>
     <p>Organização</p>
-    <p>Git, GitHub e GitLab</p>
-    <p> ReadMe </p>
+    <p>[Git, GitHub e GitLab](#Git, GitHub e GitLab)</p>
+    <p>[ReadMe](#ReadMe)</p>
 </div>
-
-
-# Dia 1 |  22/05/23
-
-- [Onboard Geral](#Onboard Geral)
-- [Organização](#Matriz de Eisenhowe)
-- [Git, GitHub e GitLab](#Git, GitHub e GitLab)
-- [ReadMe](#ReadMe)
 
 ## Onboard Geral
 Reunião Onboard introdutória com membros da equipe e colegas, onde recebemos orientações gerais da empresa, explicação sobre pilares da ética no trabalho e como irá funcionar o programa. Na sequência houve o contato com o tutor, que explicou sobre a equipe, o iStudio QA & Testing Automation e Construção de uma Automação de Teste.
