@@ -35,6 +35,6 @@
 I.  **Indivíduos** e **Interações** acima de Processos e Ferramentas. <br/>
 II. **Software funcionando** é melhor que documentação abrangente (Clientes pagam por resultado  e não por um plano bem elaborado que nunca vai sair do papel).<br/>
 III. **Colaboração com o cliente** acima de negociação de contratos.(A tomada de decisões deve sempre estar de acordo com os objetivos do cliente).<br/>
-IV. Ser suscetível à mudança, uma vez que imprevistos podem acontecer..<br/>
+IV. Ser **suscetível à mudança**, uma vez que imprevistos podem acontecer..<br/>
 
-# QA em um Time Ágil
+## QA em um Time Ágil
