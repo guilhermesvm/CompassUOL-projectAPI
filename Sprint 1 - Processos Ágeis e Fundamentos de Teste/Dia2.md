@@ -64,7 +64,7 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 
 
 
-### Exemplo de um Scrum
+### Exemplo de um Scrum na Prática
 - PO apresenta à todos a visão de produto dos stakeholders;
 - PO com auxílio do Scrum master organiza a visão em estórias que serão inseridas no Product Backlog ;
 - Sprint Planning e Sprint Backlog;
@@ -77,6 +77,6 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 ![exemplo de scrum](https://keeps.com.br/wp-content/uploads/2022/07/Scrum_esquema-10-1-1024x536.png)
 
 ### Ferramentas
-- BurndownChat: gráfico que demonstra  uma relação de itens à fazer com o tempo disponível.
-- Kanban: ajuda na visualizção e organizção do fluxo de trabalho, mostra as tarefas em espera, andamento e concluídas.
+- BurndownChat: gráfico que demonstra uma relação de estórias à fazer com o tempo disponível.
+- Kanban: mostra as tarefas em espera, andamento e concluídas, ajudando na visualização e organização do fluxo de trabalho.
 
