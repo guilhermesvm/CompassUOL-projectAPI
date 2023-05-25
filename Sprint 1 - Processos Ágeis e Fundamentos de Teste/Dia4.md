@@ -33,7 +33,7 @@ Qualidade é gerada a partir de diversos fatores relacionados ao teste do softwa
  ### Teste e Depuração
  É mais comum que o **tester** realize testes que possam mostrar falhas no software, bem como testes de confirmação final, a fim de verificar se o problema foi resolvido, e o **developer** depure o código, atividade de desenvolvimento que localiza, analisa e corrige defeitos.
 
- ## Error, Defect e Failure
+ ## Sequência do Bug
  >🚫 Error: Ocorre por erro humano e pode acontecer em qualquer estágio do desenvolvimento.<br/>
  >🐞 Defect(bug):  É o resultado do erro. Imperfeição ou deficiência em um produto que faz com que ele não funcione como esperado.<br/>
- >🔥 Failure: Evento onde um componente ou sistema não funciona como esperado.<br/>
+ >🔥 Failure: Evento onde um componente ou sistema não funciona como esperado por causa de um bug.<br/>
