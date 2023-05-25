@@ -2,7 +2,7 @@
 ![banner](link)
     <h1> Dia 1| 22/05/23 </h1>
     <p>Onboard Geral</p>
-    <p>>Organização</p>
+    <p>Organização</p>
     <p>Git, GitHub e GitLab</p>
     <p> ReadMe </p>
 </div>
