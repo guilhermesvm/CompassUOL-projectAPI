@@ -1,11 +1,14 @@
-<div align="center">
+<div align="center>
 ![banner](link)
-    <h1> Dia 1| 22/05/23>
-    <p>Onboard Geral</p>
-    <p>Organização</p>
-    <p>Git, GitHub e GitLab</p>
-    <p>ReadMe</p>
+    <h1> Dia 1| 22/05/23 </h1>
+    <ul>
+        <li>Onboard Geral</li>
+        <li>Organização</li>
+        <li>Git, GitHub e GitLab</li>
+        <li> ReadMe </li>
+    </ul>
 </div>
+
 
 # Dia 1 |  22/05/23
 
