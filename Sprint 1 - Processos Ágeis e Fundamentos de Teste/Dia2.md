@@ -36,10 +36,10 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 
 ### Sprints
 
-|Eventos                   |                 |                      |
-|--------------------------|-----------------|----------------------|
-|Sprint Planning           |Daily Scrum      |                      | 
-|Sprint Execution          |Scrum Review     |Retrospective Sprint  |
+|Eventos                   |                 |                      |              |                    |
+|--------------------------|-----------------|----------------------|--------------|--------------------|
+|Sprint Planning           |Sprint Execution |Daily Scrum           | Scrum Review |Retrospective Sprint|
+
 
 
 ➡️**Sprint Planning**:  é uma reunião inicial entre o Scrum Team. O PO apresenta o Product Backlog e a equipe determina quais estórias serão capazes de completar durante a Sprint que está por começar.<br/>
@@ -79,4 +79,3 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 ### Ferramentas
 - BurndownChat: gráfico que demonstra uma relação de estórias à fazer com o tempo disponível.
 - Kanban: mostra as tarefas em espera, andamento e concluídas, ajudando na visualização e organização do fluxo de trabalho.
-
