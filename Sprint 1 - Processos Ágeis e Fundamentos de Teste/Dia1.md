@@ -1,12 +1,13 @@
-<div align="center>
+<div align="center">
     <h1> Dia 1| 22/05/23>
     <ul>
         <li>Onboard Geral<li>
         <li>Organização</li>
         <li>Git, GitHub e GitLab</li>
-        <li> ReadMe </li>
+        <li>ReadMe</li>
     </ul>
 </div>
+
 # Dia 1 |  22/05/23
 
 - [Onboard Geral](#Onboard Geral)
