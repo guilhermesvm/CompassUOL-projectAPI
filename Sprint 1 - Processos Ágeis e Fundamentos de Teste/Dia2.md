@@ -1,9 +1,8 @@
 <div align="center">
     ![banner](link)
     <h1> Dia 2 </h1>
-    <p> [Comunicação em Equipe](#Comunicação em Equipe)
-    <p> [Scrum] </p>(#Scrum)
-    <a href="https://keeps.com.br/wp-content/uploads/2022/07/Scrum_esquema-10-1-1024x536.png" width="400px"></a>
+    <p> [Comunicação em Equipe](#Comunicação em Equipe)</p>
+    <p> [Scrum](#Scrum </p>
 </div>
 
 ## Comunicação em Equipe
@@ -69,7 +68,9 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 - Increment/Delivery;
 - Repetição do processo até ter o produto final.
 
-![exemplo de scrum](https://keeps.com.br/wp-content/uploads/2022/07/Scrum_esquema-10-1-1024x536.png)
+<div align="center">
+    <img src="https://keeps.com.br/wp-content/uploads/2022/07/Scrum_esquema-10-1-1024x536.png" width="400px">
+</div>
 
 ### Ferramentas
 - BurndownChat: gráfico que demonstra uma relação de histórias à fazer com o tempo disponível.
