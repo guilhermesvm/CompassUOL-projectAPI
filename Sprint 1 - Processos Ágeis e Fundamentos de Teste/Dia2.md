@@ -3,7 +3,7 @@
     <h1> Dia 2 </h1>
     <p> [Comunicação em Equipe](#Comunicação em Equipe)
     <p> [Scrum] </p>(#Scrum)
-    <img src="https://keeps.com.br/wp-content/uploads/2022/07/Scrum_esquema-10-1-1024x536.png" width="400px">
+    <a href="https://keeps.com.br/wp-content/uploads/2022/07/Scrum_esquema-10-1-1024x536.png" width="400px"></a>
 </div>
 
 ## Comunicação em Equipe
