@@ -38,8 +38,8 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 
 |Eventos                   |                 |                      |
 |--------------------------|-----------------|----------------------|
-|Sprint Planning           |Daily Scrum      |Retrospective Sprint  | 
-|Sprint Execution          |Scrum Review     |                      |
+|Sprint Planning           |Daily Scrum      |                      | 
+|Sprint Execution          |Scrum Review     |Retrospective Sprint  |
 
 
 ➡️**Sprint Planning**:  é uma reunião inicial entre Scrum Team. O PO apresenta o product Backlog e a equipe determina quais estórias serão capaz de completar durante a Sprint que está por começar.<br/>
@@ -65,9 +65,6 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 
 
 ### Exemplo de um Scrum
-![exemplo de scrum](https://keeps.com.br/wp-content/uploads/2022/07/Scrum_esquema-10-1-1024x536.png)
-Link de Referência: https://keeps.com.br/scrum-o-que-e-como-usar-e-quais-as-principais-etapas-deste-metodo-agil/
-
 - PO apresenta à todos a visão de produto dos stakeholders;
 - PO com auxílio do Scrum master organiza a visão em estórias que serão inseridas no Product Backlog ;
 - Sprint Planning e Sprint Backlog;
@@ -76,6 +73,8 @@ Link de Referência: https://keeps.com.br/scrum-o-que-e-como-usar-e-quais-as-pri
 - Sprint Retrospective;
 - Increment/Delivery;
 - Repetição do processo até ter o produto final.
+
+![exemplo de scrum](https://keeps.com.br/wp-content/uploads/2022/07/Scrum_esquema-10-1-1024x536.png)
 
 ### Ferramentas
 - BurndownChat: gráfico que demonstra  uma relação de itens à fazer com o tempo disponível.
