@@ -2,7 +2,6 @@
 
 - Comunicação em Equipe
 - Scrum
--
 
 ## Comunicação em Equipe
 Foi introduzido um slideshow com temas importantes que uma equipe bem estruturada e com uma boa relação deve ter:
@@ -26,9 +25,9 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 
 
 ### Scrum Team
-| Papéis       |              |         |
-|--------------|--------------|---------|
-|Scrum Master  |Product Owner | Dev Team| 
+| Papéis       |                   |         |
+|--------------|-------------------|---------|
+|Scrum Master  |Product Owner (PO) | Dev Team| 
 
 **Scrum Team**: pequeno time ágil de profissionais autônomos com um objetivo final comum:a entrega do produto.<br/>
 **Scrum Master**:  é o responsável por orientar, treinar o time com os melhores valores e práticas do Scrum. <br/>
@@ -43,11 +42,11 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 |Sprint Execution          |Scrum Review     |                      |
 
 
-➡️**Sprint Planning**:
-➡️**Sprint Execution**:
-➡️**Daily Scrum**:
-⬅️**Scrum Review**:
-🔁**Retrospective Sprint**:
+➡️**Sprint Planning**:  é uma reunião inicial entre Scrum Team. O PO apresenta o product Backlog e a equipe determina que itens será capaz de completar durante a Sprint que está por começar.<br/>
+➡️**Sprint Execution**: desenvolvimento do projeto.<br/>
+➡️**Daily Scrum**: reunião diária feita com o Time Dev, que tem duração de até 15 minutos e nela são discutidos 3 pontos: “O que você fez ontem?”, “O que você fará hoje? ” e “Houve algum impedimento?”.<br/>
+⬅️**Scrum Review**: tem por objetivo a inspeção do Incremento de Produto desenvolvido naquela Sprint e adaptação do Product Backlog caso necessário.<br/>
+🔁**Retrospective Sprint**:evento que fecha a sprint, o qual o time se dedica à rever o seu trabalho, avaliando como foi a última Sprint e cria um plano de ação, adaptação e melhoria para a próxima.<br/>
 
 
 
@@ -55,16 +54,17 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 ### Artefatos Scrum
 
 
-| Artefatos     |              |        |
-|---------------|--------------|--------|
-|Product Backlog|Sprint Backlog|Delivery|
+| Artefatos     |              |                  |
+|---------------|--------------|------------------|
+|Product Backlog|Sprint Backlog|Delivery/Increment|
 
-**Product Backlog**
-**Sprint Backlog**
-**Delivery**
+**Product Backlog**: PO prioriza e descreve os itens que estão do topo à base do Backlog, esses devem estar com a importância definida e claros entregar maior valor de negócio ao Produto. <br/>
+**Sprint Backlog**: lista de estórias divididas que precisam ser feitas durante uma Sprint, gerando a Sprint Task.<br/>
+**Delivery/Increment**: Soma de todos os itens completados durante a Sprint e das Sprints anteriores. No final, um novo incremento deve deve ter atendido todos os requisitos para ser considerado "Done".
 
 
 
-###Exemplo de um Scrum
+### Exemplo de um Scrum
 ![exemplo de scrum](https://keeps.com.br/wp-content/uploads/2022/07/Scrum_esquema-10-1-1024x536.png)
+Link de Referência: https://keeps.com.br/scrum-o-que-e-como-usar-e-quais-as-principais-etapas-deste-metodo-agil/
 
