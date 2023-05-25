@@ -3,7 +3,6 @@
 - Matriz de Eisenhower
 - Comunicação em projetos
 - Como criar bons READMEs para repositórios versionados
-- Comunicação em projetos
 - Fundamentos de agilidade
 - Organização em equipes
 - O QA Ágil
