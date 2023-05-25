@@ -29,9 +29,9 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 |--------------|-------------------|---------|
 |Scrum Master  |Product Owner (PO) | Dev Team| 
 
-**Scrum Team**: pequeno time ágil de profissionais autônomos com um objetivo final comum:a entrega do produto.<br/>
+**Scrum Team**: pequeno time ágil de profissionais (squads) autônomos com um objetivo final comum : entrega do produto.<br/>
 **Scrum Master**:  é o responsável por orientar, treinar o time com os melhores valores e práticas do Scrum. <br/>
-**Product Owner**: é o líder do produto, decide quais recursos e funcionalidades serão implementados,e em qual ordem. possui contato com  os backholders.<br/>
+**Product Owner**: é o líder do produto, possui contato com  os backholders, decide quais recursos e funcionalidades serão implementados, e em qual ordem.<br/>
 **Dev Team**: constroem e executam o projeto.<br/>
 
 ### Sprints
@@ -42,7 +42,7 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 |Sprint Execution          |Scrum Review     |Retrospective Sprint  |
 
 
-➡️**Sprint Planning**:  é uma reunião inicial entre Scrum Team. O PO apresenta o product Backlog e a equipe determina quais estórias serão capaz de completar durante a Sprint que está por começar.<br/>
+➡️**Sprint Planning**:  é uma reunião inicial entre o Scrum Team. O PO apresenta o Product Backlog e a equipe determina quais estórias serão capazes de completar durante a Sprint que está por começar.<br/>
 ➡️**Sprint Execution**: desenvolvimento do projeto.<br/>
 ➡️**Daily Scrum**: reunião diária feita com o Time Dev, que tem duração de até 15 minutos e nela são discutidos 3 pontos: “O que você fez ontem?”, “O que você fará hoje? ” e “Houve algum impedimento?”.<br/>
 ⬅️**Scrum Review**: tem por objetivo a inspeção do Incremento desenvolvido naquela Sprint e adaptação do Product Backlog caso necessário.<br/>
