@@ -32,15 +32,12 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 **Scrum Team**: Pequeno time ágil de profissionais (squads) autônomos com um objetivo final comum : entrega do produto.<br/>
 **Product Owner**: É o líder do produto, possui contato com  os backholders, decide quais recursos e funcionalidades serão implementados, e em qual ordem.<br/>
 **Scrum Master**:  É o facilitador, promovendo orientação, colaboração, um ambiente de trabalho estável, comunicativo e amigável. <br/>
-**Dev Team**: São os que planejam, estimam e executam o produto durante as Sprints.<br/>
+**Dev Team**: São os que planejam, estimam e executam desenvolvimento do produto durante as Sprints.<br/>
 
 ### Sprints
-
 |Eventos                   |                 |                      |              |                    |
 |--------------------------|-----------------|----------------------|--------------|--------------------|
 |Sprint Planning           |Sprint Execution |Daily Scrum           | Scrum Review |Retrospective Sprint|
-
-
 
 ➡️**Sprint Planning**:  É uma reunião inicial entre o Scrum Team. O PO apresenta o Product Backlog e a equipe determina quais estórias serão capazes de completar durante a Sprint que está por começar.<br/>
 ➡️**Sprint Execution**: Desenvolvimento do projeto.<br/>
@@ -49,11 +46,7 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 🔁**Retrospective Sprint**: Evento que fecha a sprint, no qual o time verifica possíveis necessidades de aptação, o que teve de positivo e negativo, para decidir que práticas devem continuar ou parar.<br/>
 
 
-
-
 ### Artefatos Scrum
-
-
 | Artefatos     |              |                  |
 |---------------|--------------|------------------|
 |Product Backlog|Sprint Backlog|Delivery/Increment|
@@ -61,7 +54,6 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 **Product Backlog**: PO descreve e prioriza por importância os itens que estão do topo à base do Backlog, esses devem estar claros para o Dev Team, com o fim de entregar maior valor de negócio ao produto. <br/>
 **Sprint Backlog**: Lista de estórias divididas que precisam ser feitas durante uma Sprint, gerando a Sprint Task.<br/>
 **Delivery/Increment**: Soma de todas estórias completados durante a Sprint e das Sprints anteriores. No final, um novo incremento deve ter atendido todos os requisitos e ser aprovado para ser considerado "Done".
-
 
 
 ### Exemplo de um Scrum na Prática
