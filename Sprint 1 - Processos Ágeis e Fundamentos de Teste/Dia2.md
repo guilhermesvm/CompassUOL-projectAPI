@@ -66,7 +66,7 @@ Foi introduzido um slideshow com temas importantes que uma equipe bem estruturad
 
 ### Exemplo de um Scrum na Prática
 - PO apresenta à todos a visão de produto dos stakeholders;
-- PO com auxílio do Scrum master organiza a visão em estórias que serão inseridas no Product Backlog ;
+- PO, com auxílio do Scrum Master, organiza a visão em estórias que serão inseridas no Product Backlog ;
 - Sprint Planning e Sprint Backlog;
 - Sprint Execution;
 - Sprint Review;
