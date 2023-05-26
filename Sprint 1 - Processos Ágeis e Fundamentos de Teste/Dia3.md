@@ -32,7 +32,7 @@ II. **Software funcionando** é melhor que documentação abrangente. (Clientes 
 III. **Colaboração com o cliente** acima de negociação de contratos.(A tomada de decisões deve sempre estar de acordo com os objetivos do cliente).<br/>
 IV. Ser **suscetível à mudança**, uma vez que imprevistos podem acontecer..<br/>
 
-## QA em um Time Ágil
+## 👨‍💻 QA em um Time Ágil
 O QA (Quality Assurance) é o profissional integrado ao time de desenvilvimento que  tem como objetivo garantir que a excelência  do produto na hora da entrega. As vantagens de ter um QA no time são:
 - Entregas com maior **valor**;
 - Otimização do **tempo**;
