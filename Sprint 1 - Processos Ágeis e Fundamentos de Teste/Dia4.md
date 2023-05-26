@@ -1,7 +1,9 @@
 <div align="center">
     ![banner](link)
     <h1> Dia 4 </h1>
-    <p>Fundamentos e Tipos do Teste</p>
+    <p>[O que gera Qualidade?](#O que gera Qualidade?) </p>
+    <p> [Tipos e Princípios do Teste](#Tipos e Princípios do Teste) </p>
+    <p> [Psicologia]</p>(#Psicologia)
 </div>
 
 # Fundamentos do Teste
@@ -47,6 +49,7 @@ Ambas são formas de buscar softwares com mais qualidade e segurança, dessa for
 
 ## Ψ Psicologia
 É importante que um QA tenha inteligência emocional, seja atencioso na hora de fornecer feedbacks e discutor falhas, uma vez que suas palavras podem ser destrutivas e podem ofender aqueles cujo trabalho está em revisão, e acima de tudo ser respeitoso com todos presentes no time.
+
 
 ## Conclusão
  - Testar está presente em todas as atividades do ciclo de vida do software;
