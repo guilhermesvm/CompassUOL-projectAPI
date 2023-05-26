@@ -13,7 +13,7 @@ Cada software possui um ciclo de desenvolvimento e de teste, e esses andam junto
 
 ## Pirâmide de Testes
 <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1046/1*NQ7s8qic4dz2-zGcTpFxfA.png" width="400px">
+    <img src="https://lab.vortx.com.br/content/images/2021/08/piramide-testes.jpg" width="400px">
 </div>
 
 
