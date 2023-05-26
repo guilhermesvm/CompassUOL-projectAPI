@@ -41,7 +41,7 @@ Ambas são formas de buscar softwares com mais qualidade e segurança, dessa for
 1. **O teste mostra a presença de defeitos** - Testar não é provar que o software está correndo, e sim reduzir a probabilidade de aparecimento de defeitos não descobertos.<br/>
 2. **Testes exaustivos são impossíveis** - Custam caro e demandam muito tempo, logo é melhor focar em pontos críticos.<br/>
 3. **Teste cedo/antes** - A fim de economiza tempo e dinheiro e previnir a presença de defeitos.<br/>
-4. **Defeitos se agrupam** -  80% dos erros são usualmente encontrados em 20% dos módulos do sistema. Assim, se um defeito é encontrado em um lugar particular software, as chances de haver outros são grandes.<br/>
+4. **Defeitos se agrupam** - 80% dos erros são usualmente encontrados em 20% dos módulos do sistema. Assim, se um defeito é encontrado em um lugar particular software, as chances de haver outros são grandes.<br/>
 5. **Paradoxo do Pesticida** - Testes precisam ser regularmente atualizados e adaptados, do contrário não encontrarão mais defeitos.<br/>
 6. **Teste depende do contexto** - Precisa ser realizado de forma diferente em diferentes situações e domínios.<br/>
 7. **Ausência de erros é ilusão** -  A completa ausência de defeitos no produto não significa  que ele será um sucesso. Ele deve atender as expectativas dos usuários.<br/>
