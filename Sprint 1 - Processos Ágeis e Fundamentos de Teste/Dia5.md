@@ -1,19 +1,19 @@
 <div align="center">
     ![banner](link)
     <h1> Dia 5 </h1>
-    <p> Importância dos Testes e Ciclo de Vida</p>
+    <p>Ciclo do Software e Pirâmide de Testes</p>
 </div>
 
-## Desenvolvimento e Testes
-O desenvolvimento e o teste de um software andam juntos, desde o planejamento, análise, implementação e a execução final.
+## Ciclo de Vida 
+Cada software possui um ciclo de desenvolvimento e de teste, e esses andam juntos, desde o planejamento, análise, implementação e a execução final.
 
 <div align="center">
-    <img src="https://testesw.files.wordpress.com/2011/05/tswxdes2.jpg" width:"50px">
+    <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/01/08121228/modelo-cascata.png" width="400px">
 </div>
 
 ## Pirâmide de Testes
 <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1046/1*NQ7s8qic4dz2-zGcTpFxfA.png" width:"50px">
+    <img src="https://miro.medium.com/v2/resize:fit:1046/1*NQ7s8qic4dz2-zGcTpFxfA.png" width="400px">
 </div>
 
 
