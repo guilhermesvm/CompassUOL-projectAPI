@@ -8,7 +8,7 @@
 Cada software possui um ciclo de desenvolvimento e de teste, e esses andam juntos, desde o planejamento, análise, implementação e a execução final.
 
 <div align="center">
-    <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/01/08121228/modelo-cascata.png" width="400px">
+    <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/01/08121228/modelo-cascata.png" width="550px">
 </div>
 
 ## Pirâmide de Testes
