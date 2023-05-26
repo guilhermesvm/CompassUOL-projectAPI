@@ -8,12 +8,12 @@
 O desenvolvimento e o teste de um software andam juntos, desde o planejamento, análise, implementação e a execução final.
 
 <div align="center">
-    <img src="https://testesw.files.wordpress.com/2011/05/tswxdes2.jpg" width:"600px">
+    <img src="https://testesw.files.wordpress.com/2011/05/tswxdes2.jpg" width:"200px">
 </div>
 
 ## Pirâmide de Testes
 <div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1046/1*NQ7s8qic4dz2-zGcTpFxfA.png" width="600px">
+    <img src="https://miro.medium.com/v2/resize:fit:1046/1*NQ7s8qic4dz2-zGcTpFxfA.png width:"200px">
 </div>
 
 
