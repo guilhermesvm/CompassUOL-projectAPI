@@ -1,7 +1,8 @@
 <div align="center">
     ![banner](link)
     <h1> Dia 3 </h1>
-    <p> Aprofundamento sobre Scrum e Times Ágeis </p>
+    <p>Aprofundamento sobre Scrum(#Aprofundamento sobre Scrum) </p> 
+    <p>Times Ágeis(#Times Ágeis)</p>
 </div>
 
 ## ⚡ Manifesto Ágil
