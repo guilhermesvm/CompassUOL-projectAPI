@@ -1,9 +1,9 @@
 <div align="center">
     ![banner](link)
     <h1> Dia 4 </h1>
-    <p>[O que gera Qualidade?](#O que gera Qualidade?)</p>
-    <p> [Tipos e Princípios do Teste](#Tipos e Princípios do Teste)</p>
-    <p> [Psicologia](#Psicologia)</p>
+    <p>[O que gera Qualidade?](#O que gera Qualidade?) </p>
+    <p> [Tipos e Princípios do Teste](#Tipos e Princípios do Teste) </p>
+    <p> [Psicologia]</p>(#Psicologia)
 </div>
 
 # Fundamentos do Teste
@@ -40,11 +40,11 @@ Ambas são formas de buscar softwares com mais qualidade e segurança, dessa for
 ## Os 7 Princípios do Teste
 1. **O teste mostra a presença de defeitos** - Testar não é provar que o software está correndo, e sim reduzir a probabilidade de aparecimento de defeitos não descobertos.<br/>
 2. **Testes exaustivos são impossíveis** - Custam caro e demandam muito tempo, logo é melhor focar em pontos críticos.<br/>
-3. **Teste inicial economiza tempo e dinheiro** - E previne presença de defeitos.<br/>
-4. **Defeitos se agrupam** - Tendem a se agrupar em determinadas áreas do sistema.<br/>
-5. **Paradoxo do Pesticida** - Testes precisam ser regularmente atualizados, do contrário não encontrarão mais defeitos.<br/>
+3. **Teste cedo/antes** - A fim de economiza tempo e dinheiro e previnir a presença de defeitos.<br/>
+4. **Defeitos se agrupam** -  80% dos erros são usualmente encontrados em 20% dos módulos do sistema. Assim, se um defeito é encontrado em um lugar particular software, as chances de haver outros são grandes.<br/>
+5. **Paradoxo do Pesticida** - Testes precisam ser regularmente atualizados e adaptados, do contrário não encontrarão mais defeitos.<br/>
 6. **Teste depende do contexto** - Precisa ser realizado de forma diferente em diferentes situações e domínios.<br/>
-7. **Ausência de erros é ilusão** - Bugs e defeitos são inevitáveis.<br/>
+7. **Ausência de erros é ilusão** -  A completa ausência de defeitos no produto não significa  que ele será um sucesso. Ele deve atender as expectativas dos usuários.<br/>
 
 
 ## Ψ Psicologia
