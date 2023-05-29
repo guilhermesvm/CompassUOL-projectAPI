@@ -2,8 +2,8 @@
     ![banner](link)
     <h1> Dia 4 </h1>
     <p>[O que gera Qualidade?](#O que gera Qualidade?) </p>
-    <p> [Tipos e Princípios do Teste](#Tipos e Princípios do Teste) </p>
-    <p> [Psicologia]</p>(#Psicologia)
+    <p>[Tipos e Princípios do Teste](#Tipos e Princípios do Teste) </p>
+    <p>[Psicologia](#Psicologia)</p>
 </div>
 
 # Fundamentos do Teste
