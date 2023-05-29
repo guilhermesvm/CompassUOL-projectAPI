@@ -1,11 +1,17 @@
 <div align="center">
     ![banner](link)
     <h1> Dia 5 </h1>
-    <p>Ciclo do Software e Pirâmide de Testes</p>
+    <p>[Atividades de Teste](#Atividades de Teste)
+    <p>[Pirâmide de Testes](#Pirâmide de Testes)</p>
 </div>
 
-## Ciclo de Vida 
+## Atividades de Teste
 Cada software possui um ciclo de desenvolvimento e de teste, e esses andam juntos, desde o planejamento, análise, implementação e a execução final.
+1. **PLANEJAMENTO** - Criação do propósito, etapas, espeecificações, nível de detalhamento e cronograma do teste.
+2. **ANÁLISE** -  Define as condições para que aconteça.
+3. **MODELAGEM** - Descreve as especificações, recursos e operações necessárias que estarão presentes nos requisitos do sistema proposto.
+4. **IMPLEMENTAÇÃOE** - Quando a codificação do teste foi pronta, a fase de teste de software termina e nenhum bug ou erro é deixado no sistema, o processo final de implantação é iniciado.
+5. **EXECUÇÃO/MANUTENÇÃO**- Garantie que o sistema continue a funcionar e que as necessidades continuem a ser atendidas de acordo com a especificação mencionada na primeira fase.
 
 <div align="center">
     <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/01/08121228/modelo-cascata.png" width="550px">
