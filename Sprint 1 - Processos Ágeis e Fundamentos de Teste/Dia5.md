@@ -10,7 +10,7 @@ Cada software possui um ciclo de desenvolvimento e de teste, e esses andam junto
 1. **PLANEJAMENTO** - Criação do propósito, etapas, espeecificações, nível de detalhamento e cronograma do teste.
 2. **ANÁLISE** -  Define as condições para que aconteça.
 3. **MODELAGEM** - Descreve as especificações, recursos e operações necessárias que estarão presentes nos requisitos do sistema proposto.
-4. **IMPLEMENTAÇÃOE** - Quando a codificação do teste foi pronta, a fase de teste de software termina e nenhum bug ou erro é deixado no sistema, o processo final de implantação é iniciado.
+4. **IMPLEMENTAÇÃO** - Quando a codificação do teste foi pronta, a fase de teste de software termina e nenhum bug ou erro é deixado no sistema, o processo final de implantação é iniciado.
 5. **EXECUÇÃO/MANUTENÇÃO**- Garantie que o sistema continue a funcionar e que as necessidades continuem a ser atendidas de acordo com a especificação mencionada na primeira fase.
 
 <div align="center">
