@@ -1,13 +1,17 @@
+![banner](link)
+
 ## Conteúdos da Sprint:
 
 - Matriz de Eisenhower
-- Comunicação em projetos
-- Como criar bons READMEs para repositórios versionados
-- Fundamentos de agilidade
-- Organização em equipes
+- Git, GitHub e GitLab
+- Como criar bons READMEs
+- Comunicação em Projetos
+- Fundamentos de Agilidade
+- Organização em Equipes
 - O QA Ágil
 - Fundamentos de Teste (back-end)
-- Pirâmide de testes
-- Myers e o princípio de Pareto
-- Bancos de dados SQL e NOSQL
+- Pirâmide de Testes
+- Regra 10 de Myers
+- Princípio de Pareto
+- Introdução ao Java (Curso em Vídeo)
 - Fundamentos de CyberSecurity
