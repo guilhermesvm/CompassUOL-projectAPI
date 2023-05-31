@@ -1,8 +1,9 @@
 <div align="center">
     ![banner](link)
     <h1> Dia 3 </h1>
-    <p>[Aprofundamento sobre Scrum](#Aprofundamento sobre Scrum)</p>
-    <p> [Times Ágeis](#Times Ágeis)</p>
+    <p>[Manifesto Ágil](#Manifesto Ági)</p>
+    <p> [QA em Times](#QA em Times)</p>
+    <p> [DoR e DoD](#DoR e DoD)
 </div>
 
 ## ⚡ Manifesto Ágil
