@@ -1,6 +1,8 @@
 <div align="center">
+    !(banner)(link)
     <h1> Dia 6 </h1>
-    <p>[Myers e o Princípio de Pareto](#Myers e o Princípio de Pareto)</p>
+    <p>[Regra 10 de Myers](#Regra 10 de Myers)</p>
+    <p>[Princípio de Pareto](#Princípio de Pareto)</p>
 </div>
 
 ## Regra 10 de Myers
@@ -29,5 +31,3 @@ Lei que estabelece a proporção 80/20 como a causa e consequência de qualquer 
 1. **Definir prioridades**: Identifique processos ineficientes, ações que precisam ser melhoradas e os resultados obtidos a partir de cada atividade. 
 2. **Esforço pelo tempo necessário**: Trabalhar e se esforçar muito em um projeto não significa que ele será bem sucedido. Portanto, é melhor avalir os resultados alcançados por cada colaborador, e não o tempo investido.
 3. **Delegar tarefas**: Seguindo a lógica, apenas 20% dos funcionários realizam 80% dos trabalhos mais importantes da empresa. Ao invés de sobrecarregar esses os que apresentam alto desempenho, é necessário achar os pontos fortes e fracos dos que fazem parte dos 80%. 
-
-## Aprofundamento sobre Testes de Software
