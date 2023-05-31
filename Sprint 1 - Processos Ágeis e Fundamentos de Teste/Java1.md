@@ -10,7 +10,7 @@ A linguagem Oak foi criada pelo Green Team da Sun Microsystems, que mais tarde f
 # 🔧 Funcionamento do Java (Ep. 2)
 Um código gerado por um compiltador java (JavaC) chama-se ByteCode e o computador não lê, sendo necessário passar pelo JVM (Java Virtual Machine) antes de chegar ao sistema.
 
-WORA (Write Once, Run Everyhere) - refere-se á habilidade da lingaugem de ser escrita e compilada uma vez só, porém funcionar em qualquer dispositivo que possua uma JVM.
+WORA (Write Once, Run Everyhere) - refere-se á habilidade da lingaugem de ser escrita e compilada uma vez só, podendo funcionar em qualquer dispositivo que possua uma JVM.
 
 ## JRE e JDK
 **JRE (Java Runtime Enviroment)**: Serve para quem quer executar o java.
