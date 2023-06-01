@@ -14,8 +14,9 @@
 |boolean casado = false;  |boolean casado = (boolean) false;|Boolean casado = new Boolean(false); |
 
 <div align="center">
-    ![tabelatipos](Img/tabelajava.png) width="50%"
+    <img src="Img/tiposjava.png" width="600px"/>
 </div>
+
  
 ## Saída de Dados
 **Tipos de Saída**
