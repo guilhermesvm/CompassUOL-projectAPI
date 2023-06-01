@@ -14,7 +14,7 @@
 |boolean casado = false;  |boolean casado = (boolean) false;|Boolean casado = new Boolean(false); |
 
 <div align="center">
-    <img src="Img/tiposjava.png" width="600px"/>
+    <img src="Img/tiposjava.png" alt="TiposJava" width="600px"/>
 </div>
 
  
@@ -71,7 +71,7 @@ public class TesteTipos {
 ## Criando Tabela de Soma com Swing
 
 <div align="center">
-    <img src="imagem.png" alt="TabelaDeSoma">
+    <img src="Img/tabelaDeSoma.png" alt="TabelaDeSoma" width="500px"/>
 </div>
 
 Método Getter: pega o valor que está dentro (lblResultado.getText()).<br>
