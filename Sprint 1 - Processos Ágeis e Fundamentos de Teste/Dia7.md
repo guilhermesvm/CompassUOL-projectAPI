@@ -1,7 +1,7 @@
 <div align="center">
     <img src="Img/dia7.png" alt="BannerDia7" width="700px" height="263px">
     <h1> Dia 7 </h1>
-    <p> [Curso em Vídeo (Java) - Ep.1 ao 5](#Curso em Vídeo (Java) - Ep.1 ao 5) </p>
+    <p>Curso em Vídeo (Java) - Ep.1 ao 5</p>
 </div>
 
 # ☕ História do Java (Ep. 1)
