@@ -1,5 +1,5 @@
 <div align="center">
-    !(banner)(link)
+    <img src="Img/dia6.png" alt="BannerDia6" width="700px" height="263px">
     <h1> Dia 6 </h1>
     <p>[Regra 10 de Myers](#Regra 10 de Myers)</p>
     <p>[Princípio de Pareto](#Princípio de Pareto)</p>
