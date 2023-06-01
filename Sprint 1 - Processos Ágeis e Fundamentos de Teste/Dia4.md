@@ -1,5 +1,5 @@
 <div align="center">
-    ![banner](link)
+    <img src="Img/dia4.png" alt="BannerDia4" width="700px" height="263px">
     <h1> Dia 4 </h1>
     <p>[O que gera Qualidade?](#O que gera Qualidade?) </p>
     <p>[Tipos e Princípios do Teste](#Tipos e Princípios do Teste) </p>
