@@ -1,5 +1,5 @@
 <div align="center">
-    ![banner](link)
+    <img src="Img/dia3.png" alt="BannerDia3" width="700px" height="263px">
     <h1> Dia 3 </h1>
     <p>[Manifesto Ágil](#Manifesto Ági)</p>
     <p> [QA em Times](#QA em Times)</p>
