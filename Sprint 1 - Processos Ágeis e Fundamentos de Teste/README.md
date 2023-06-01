@@ -1,5 +1,5 @@
 <div align="center">
-    ![Logo do Sprint](Img/sprint01redi5.png)
+    ![Logo do Sprint](Img/sprint01redi4.png)
 </div>
 
 ## Conteúdos da Sprint:
