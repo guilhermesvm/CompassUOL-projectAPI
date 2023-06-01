@@ -1,4 +1,6 @@
-![banner](link)
+<div align="center">
+    ![Logo do Sprint](Img/sprint01redi5.png)
+</div>
 
 ## Conteúdos da Sprint:
 
