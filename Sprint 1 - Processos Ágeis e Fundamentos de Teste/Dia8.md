@@ -85,6 +85,6 @@ Método Setter: colocar um valor dentro (lblResultado.setText()).
         int soma = n1 + n2;
         lblSoma.setText(Integer.toString(soma));
     }  
-´´´
+```
 
 # Operadores Aritméticos e Classe Math (Ep. 7)
