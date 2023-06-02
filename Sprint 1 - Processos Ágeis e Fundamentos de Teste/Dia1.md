@@ -1,5 +1,5 @@
 <div align="center">
-    ![banner](Img/dia1.png)
+    <img src="Img/dia1.png" alt="BannerDia1" width="700px" height="263px">
     <h1> Dia 1 | 22/05/23 </h1>
     <p>[Onboard Geral](#Onboard Geral)</p>
     <p>[Organização](#Matriz de Eisenhower)</p>
