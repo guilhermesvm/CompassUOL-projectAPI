@@ -68,5 +68,5 @@ public class ResolucaoTela {
 
 ## Exercícios (Ep. 6)
 <div align="center">
-    <img src="Img/CalculadoraIdade.png" alt="CalculadoraIdade" width="500px">
+    <img src="Img/Calculadora_Idade.png" alt="CalculadoraIdade" width="500px">
 </div>
