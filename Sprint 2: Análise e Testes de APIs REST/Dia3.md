@@ -5,21 +5,18 @@
     <p>[Testes Funcionais e Tipos de Erros](#Testes Funcionais e Tipos de Erros)</p>
 </div>
 
-## Validações de APIs
+## Validações e Boas Práticas para Testar APIs de APIs
 Vídeo apresentando um exemplo de validação de API na plataforma Postman. Alguns exemplos são:
 - Validação da Solicitação;
 - Validação do Retorno da soliticação;
 - Validação da Estrutura de Resposta;
 - Validação de retorno de Status Code.
 
-## Boas Práticas para Testar APIs
-1. **Entender o Projeto**
-2. **Documentação**: quanto mais informação, melhor.
+1. **Entender o Projeto**: Facilita a escolha de tecnologias para a criação e auxilia a criação do fluxo de teste a partir da integração do sistema
+2. **Documentação**: Endpoints, os parâmetros de entrada e respostas à serem obtidas.
 3. **Validação**:
-    - Tipos de Teste:
-        - Funcionais - requisitos
-        - Não Funcionais - performance
-        - Estruturais - arquitetura da API
+    - Tipos de Teste (Funcionais - requisitos, Não Funcionais - performance e usabilidade, Estruturais - arquitetura da API)
+    - Status, header e body da API;
 4. **Segurança**: tokens de acesso e autenticações.
 
 ## Testes Funcionais em API Rest
@@ -35,5 +32,10 @@ Testes de software devem ser abordados de maneira SISTEMÁTICA, ou seja, uso de 
 >   - Entrada: Credenciais (Administrador = registrar, Usuário = erro, Inválida = erro, Expirada = erro)
         
 ## Tipos de Erros
-- Causados por Documentação
-- Causados por Massa de Dados
+**Gravidade:** Grau de dano que um bug pode causar;<br>
+**Prioridade:** Avaliação da importância de corrigir um bug;<br>
+**Risco:** Qualquer evento com impactos no projeto, são identificados e classificados conforme a probabilidade e tamanho de impacto.
+
+- Causados por documentação;
+- Causado por ambiente;
+- Causado por massa de dados.
