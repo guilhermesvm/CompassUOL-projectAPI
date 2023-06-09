@@ -20,12 +20,21 @@ Cartões com diferentes cores, as quais possuem diferentes significados, que des
 - **Rule**: critério ou regra de aceitação;
 - **Exemple** (context, action, expected result): exemplo concreto ligado a cada regra de negócio que será implementada com uma descrição;
 - **Question**: questionamentos associados aos demais itens.
+
 <div align="center">
     <img src="https://openpracticelibrary.github.io/opl-media/images/example-mapping-2-.png" width="350px">
 </div>
 
 # Testes Estáticos (Swagger)
 Swagger é uma aplicação visual  com a finalidade de documentar, ajudar na criação, consumo e geramento de códigos para uma API Rest. <br>
+
+Oque é imprescindível que contenha na documentação de uma API Rest:
+- Métodos;
+- Endpoints;
+- Parâmetro de entrada (path, query e body);
+- Possíveis respostas de retorno.
+
+## Atividade
 Um exemplo realizado foi a busca de dados relacionados à partir de um CEP na API [ViaCEP](https://viacep.com.br/ws/99300000/json/):
 
 ```
@@ -42,6 +51,5 @@ Um exemplo realizado foi a busca de dados relacionados à partir de um CEP na AP
   "siafi": "8919"
 }
 ```
-
 ## Ferramentas
 - [Swagger.io](https://editor.swagger.io/)
