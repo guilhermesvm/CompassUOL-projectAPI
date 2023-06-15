@@ -45,13 +45,13 @@ A aplicação escolhida para realizar a atividade foi a plataforma [Spotify](#ht
 
 1. **Cadastro:** Usuário deve preencher um cadastro com suas informações, como nome, email, senha e data de nascimento.
 <div align="center">
-    <img src="Img/Cadastro.png" width="350px">
+    <img src="Img/Cadastro.png" width="650px">
 </div>
 
 2. **Login:** Após o cadastro, o login deve ser feito com as informações previamente cadastradas.
 
 <div align="center">
-    <img src="Img/Login.png" width="350px">
+    <img src="Img/Login.png" width="650px">
 </div>
 
 3. Pronto! Usuário agora pode ouvir músicas, compartilhar em redes sociais, criar playlist editáveis para organizar em estilos musicais preferidos, etc.
@@ -65,12 +65,12 @@ A aplicação escolhida para realizar a atividade foi a plataforma [Spotify](#ht
 
 1. Usuário deve escolher a modalidade de plano de assinatura (Individual, Duo, Família ou Universitário), a duração (1/3/6/12 meses) e aceitar os Termos de Assinatura.
 <div align="center">
-    <img src="Img/Premium.png" width="350px">
+    <img src="Img/Premium.png" width="650px">
 </div>
 
 2. Usuário deve escolher a forma de pagamento (cartão, boleto, pix) e preencher o formulário.
 <div align="center">
-    <img src="Img/Pagamento.png" width="350px">
+    <img src="Img/PagamentoPremium.png" width="650px">
 </div>
 
 3. Pronto! Usuário se torna Premium e garante vários benefícios.
@@ -81,5 +81,3 @@ A aplicação escolhida para realizar a atividade foi a plataforma [Spotify](#ht
 - Troca de senha ao não conseguir fazer o login;
 - Layout do perfil do usuário;
 - Fluxo do Criador de Conteúdo/Músicos (publicar músicas/checar royalties, etc.)
-
- 
