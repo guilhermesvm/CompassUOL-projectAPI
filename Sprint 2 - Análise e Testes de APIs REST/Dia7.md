@@ -26,5 +26,5 @@ Exemplos de **Issues**:
 ## Mapa Mental da APi ServeRest com XMind
 
 <div align="center">
-    <img src="Img/MapaMental2" width="350px">
+    <img src="Img/MapaMental2.png" width="350px">
 </div>
