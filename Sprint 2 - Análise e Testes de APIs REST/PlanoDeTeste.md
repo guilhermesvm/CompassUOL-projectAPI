@@ -44,14 +44,13 @@ O objetivo do teste é garantir que área "/Usuários seja testada, para que o p
 
   	
 ## 6. Testes Candidatos à Automação
-- CT_001; 
-- CT_002;
-- CT_005;
-- CT_008;
-- CT_009;
-- CT_010;
-- CT_011-13;
-- CT_014:
+- CT_001; Verificar se o token de usuário gerado é válido.
+- CT_002; Buscar usuários;
+- CT_005; Criar um usuário preenchendo TODOS os campos
+- CT_008; Criar um usuário com email já cadastrado;
+- CT_009-10; Criar um usuário com e-mail inválido
+- CT_011-13; Criar um usuário com senha inválida.
+- CT_014: Criar um usuário com nome inválido.
 
 ## 7. Ferramentas
 - Softwares:
