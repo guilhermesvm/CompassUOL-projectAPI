@@ -6,7 +6,7 @@
 - Verificando a área "/Usuários", presente na documentação Swagger da API [ServerRest](https://serverest.dev/#/).
 
 ## 2. Resumo
-O objetivo do teste é garantir que área "/Usuários seja testada, para que o projeto consiga seguir o fluxo de compras de maneira funcional, com o fim de atingir seu objetivo final, ou seja, cadastrar/logar/vender um produto. Foi baseado na [User Stories]: Usuários, localizada no [SharePoint](https://compasso.sharepoint.com/sites/qa/pb/java/SitePages/Sprint-2.aspx).
+O objetivo do teste é garantir que área "/Usuários seja testada, para que o projeto consiga seguir o fluxo de compras de maneira funcional, com o fim de atingir seu objetivo final, ou seja, cadastrar/logar/vender um produto. Foi baseado na User Stories: Usuários, localizada no [SharePoint](https://compasso.sharepoint.com/sites/qa/pb/java/SitePages/Sprint-2.aspx).
 
 
 ## 3. Pessoas Envolvidas
