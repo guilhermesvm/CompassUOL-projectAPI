@@ -46,6 +46,6 @@ pm.test("Tempo de execução menor do que 200ms", function () {
 ```
 
 <div align="center">
-    <img src="Img/SimpleBooksPost.png" width="550px">
+    <img src="Img/SimpleBooksPost.png" width="950px">
 </div>
 
