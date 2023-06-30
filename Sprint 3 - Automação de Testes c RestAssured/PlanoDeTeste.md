@@ -28,41 +28,41 @@ O objetivo do teste é garantir que as áreas descritas acima sejam testadas uti
 - As senhas devem possuír no mínimo 5 caracteres e no máximo 10 caracteres;
 
 ###  **Casos de Teste**
-- CTU_001: Buscar usuários;
-- CTU_002: Buscar um usuário com ID existente;
-- CTU_003: Buscar um usuário com ID inexistente;
-- CTU_004: Criar um usuário preenchendo TODOS os campos (nome, email, senha e administrador);
-- CTU_005: Criar um usuário deixando ALGUNS/TODOS dos campos em branco;
-- CTU_006: Criar um usuário utilizando caracteres inválidos (especiais) em ALGUNS/TODOS os campos;
-- CTU_007: Criar um usuário com email já cadastrado;
-- CTU_008: Criar um usuário com email inválido (Hotmail);
-- CTU_009: Criar um usuário com email inválido (Gmail);
-- CTU_010: Criar um usuário com email sem o '@', para verificar o padrão válido de email;
-- CTU_011: Criar um usuário com senha inválida. (senha < 5 caracteres);
-- CTU_012: Criar um usuário com senha inválida. (senha > 10 caracteres);
-- CTU_013: Criar um usuário com senha inválida. (senha em branco);
-- CTU_014: Alterar dados de um usuário com o ID dele.
-- CTU_015: Alterar dados de um usuário com ID inexistente.
-- CTU_016: Alterar ALGUNS/TODOS os dados (nome, email, senha, administrador) válidos por um campo em branco;
-- CTU_017: Alterar ALGUNS/TODOS os dados válidos por caracteres inválidos (especiais);
-- CTU_018: Alterar um email válido para um padrão inválido (Hotmail/Gmail);
-- CTU_019: Alterar email de um cadastro por um email já utilizado;
-- CTU_020: Alterar email de um cadastro por um email sem o '@';
-- CTU_021: Alterar senha para um padrão inválido (5 > senha > 10, em branco)
-- CTU_022: Alterar um usuário com email válido por email não existente, para verificar cadastro de conta automático;
-- CTU_023: Excluir um usuário com ID existente;
-- CTU_024: Excluir um usuário com ID inexistente;
-- CTU_025: Excluir um usuário COM/SEM produtos no carrinho;
-- CTU_026: Excluir um usuário previamente excluído;
+- CT_001: Buscar usuários;
+- CT_002: Buscar um usuário com ID existente;
+- CT_003: Buscar um usuário com ID inexistente;
+- CT_004: Criar um usuário preenchendo TODOS os campos (nome, email, senha e administrador);
+- CT_005: Criar um usuário deixando ALGUNS/TODOS dos campos em branco;
+- CT_006: Criar um usuário utilizando caracteres inválidos (especiais) em ALGUNS/TODOS os campos;
+- CT_007: Criar um usuário com email já cadastrado;
+- CT_008: Criar um usuário com email inválido (Hotmail);
+- CT_009: Criar um usuário com email inválido (Gmail);
+- CT_010: Criar um usuário com email sem o '@', para verificar o padrão válido de email;
+- CT_011: Criar um usuário com senha inválida. (senha < 5 caracteres);
+- CT_012: Criar um usuário com senha inválida. (senha > 10 caracteres);
+- CT_013: Criar um usuário com senha inválida. (senha em branco);
+- CT_014: Alterar dados de um usuário com o ID dele.
+- CT_015: Alterar dados de um usuário com ID inexistente.
+- CT_016: Alterar ALGUNS/TODOS os dados (nome, email, senha, administrador) válidos por um campo em branco;
+- CT_017: Alterar ALGUNS/TODOS os dados válidos por caracteres inválidos (especiais);
+- CT_018: Alterar um email válido para um padrão inválido (Hotmail/Gmail);
+- CT_019: Alterar email de um cadastro por um email já utilizado;
+- CT_020: Alterar email de um cadastro por um email sem o '@';
+- CT_021: Alterar senha para um padrão inválido (5 > senha > 10, em branco)
+- CT_022: Alterar um usuário com email válido por email não existente, para verificar cadastro de conta automático;
+- CT_023: Excluir um usuário com ID existente;
+- CT_024: Excluir um usuário com ID inexistente;
+- CT_025: Excluir um usuário COM/SEM produtos no carrinho;
+- CT_026: Excluir um usuário previamente excluído;
 
 ### **Testes Candidatos à Automação**
-- CTU_001: Buscar usuários;
-- CTU_002: Buscar um usuário com ID existente;
-- CTU_004: Criar um usuário preenchendo TODOS os campos (nome, email, senha e administrador);
-- CTU_014: Alterar dados de um usuário com o ID dele.
-- CTU_023: Excluir um usuário com ID existente;
-- CTU_025: Excluir um usuário COM/SEM produtos no carrinho;
-- CTU_026: Excluir um usuário previamente excluído;
+- CT_001: Buscar usuários;
+- CT_002: Buscar um usuário com ID existente;
+- CT_004: Criar um usuário preenchendo TODOS os campos (nome, email, senha e administrador);
+- CT_014: Alterar dados de um usuário com o ID dele.
+- CT_023: Excluir um usuário com ID existente;
+- CT_025: Excluir um usuário COM/SEM produtos no carrinho;
+- CT_026: Excluir um usuário previamente excluído;
 
 
 ## 4.2 **🔑 [/Login]**
@@ -76,26 +76,26 @@ O objetivo do teste é garantir que as áreas descritas acima sejam testadas uti
 - A duração da validade do token deverá ser de 10 minutos;
 
 ###  **Casos de Teste**
-- CTL_001: Logar com email e senha corretos (já cadastrado);
-- CTL_002: Logar com email e senha corretos, mas com o mesmo email em CAPSLOCK;
-- CTL_003: Logar com email e senha corretos, mas com a mesma senha em CAPSLOCK;
-- CTL_004: Logar com email e senha inválidos (não cadastrados);
-- CTL_005: Logar com email correto, mas com senha incorreta;
-- CTL_006: Logar com email incorreto, mas com senha correta;
-- CTL_007: Logar com o(s) campo(s) 'email' e 'senha' em branco;
-- CTL_008: Após sucesso ao autenticar, verificar se foi gerado o Token de acesso;
-- CTL_009: Verificar se o token Bearer tem duração prevista para 10 minutos;
-- CTL_010: Verificar o recebimento de Status Code "401 Unauthorized" em caso de não autenticação;
-- CTL_011: Verificar o recebimento de Status Code "401 Unauthorized" após a expiração do token Bearer;
+- CT_001: Logar com email e senha corretos (já cadastrado);
+- CT_002: Logar com email e senha corretos, mas com o mesmo email em CAPSLOCK;
+- CT_003: Logar com email e senha corretos, mas com a mesma senha em CAPSLOCK;
+- CT_004: Logar com email e senha inválidos (não cadastrados);
+- CT_005: Logar com email correto, mas com senha incorreta;
+- CT_006: Logar com email incorreto, mas com senha correta;
+- CT_007: Logar com o(s) campo(s) 'email' e 'senha' em branco;
+- CT_008: Após sucesso ao autenticar, verificar se foi gerado o Token de acesso;
+- CT_009: Verificar se o token Bearer tem duração prevista para 10 minutos;
+- CT_010: Verificar o recebimento de Status Code "401 Unauthorized" em caso de não autenticação;
+- CT_011: Verificar o recebimento de Status Code "401 Unauthorized" após a expiração do token Bearer;
 
 
 ###  **Testes Candidatos à Automação**
-- CTL_001: Logar com email e senha corretos (já cadastrado);
-- CTL_002: Logar com email e senha corretos, mas com o mesmo email em CAPSLOCK;
-- CTL_003: Logar com email e senha corretos, mas com a mesma senha em CAPSLOCK;
-- CTL_004: Logar com email e senha inválidos (não cadastrados);
-- CTL_008: Após sucesso ao autenticar, verificar se foi gerado o Token de acesso;
-- CTL_009: Verificar se o token Bearer tem duração prevista para 10 minutos;
+- CT_001: Logar com email e senha corretos (já cadastrado);
+- CT_002: Logar com email e senha corretos, mas com o mesmo email em CAPSLOCK;
+- CT_003: Logar com email e senha corretos, mas com a mesma senha em CAPSLOCK;
+- CT_004: Logar com email e senha inválidos (não cadastrados);
+- CT_008: Após sucesso ao autenticar, verificar se foi gerado o Token de acesso;
+- CT_009: Verificar se o token Bearer tem duração prevista para 10 minutos;
 
 ## 4.3 **📦 [/Produtos]**
 
@@ -107,24 +107,24 @@ O objetivo do teste é garantir que as áreas descritas acima sejam testadas uti
 - Não deve ser possível excluir produtos que estão dentro de carrinhos (dependência API Carrinhos);
 
 ### **Casos de Teste**
-- CTL_001: Acessar a aba 'Produtos' ou 'Produto/{_id} como usuário não autenticado;
-- CTL_002: Buscar produtos;
-- CTL_003: Buscar produto por ID existente;
-- CTL_004: Buscar produto por ID inexistente;
-- CTL_005: Acessar a aba 'Produtos' ou 'Produto/{_id} como usuário não autenticado;
-- CTL_006: Cadastrar um produto com nome já utilizado por outro produto;
-- CTL_007: Cadastrar produto após com token Bearer, ausente, inválido ou expirado;
-- CTL_008: Cadastrar um produto com os campos 'nome','preço', 'quantidade' em branco;
-- CTL_009: Alterar o nome de um produto por outro com nome já utilizado;
-- CTL_010: Ao alterar, se não for encontrado um produto com o mesmo nome, um novo será criado;
+- CT_001: Acessar a aba 'Produtos' ou 'Produto/{_id} como usuário não autenticado;
+- CT_002: Buscar produtos;
+- CT_003: Buscar produto por ID existente;
+- CT_004: Buscar produto por ID inexistente;
+- CT_005: Acessar a aba 'Produtos' ou 'Produto/{_id} como usuário não autenticado;
+- CT_006: Cadastrar um produto com nome já utilizado por outro produto;
+- CT_007: Cadastrar produto após com token Bearer, ausente, inválido ou expirado;
+- CT_008: Cadastrar um produto com os campos 'nome','preço', 'quantidade' em branco;
+- CT_009: Alterar o nome de um produto por outro com nome já utilizado;
+- CT_010: Ao alterar, se não for encontrado um produto com o mesmo nome, um novo será criado;
 
 ### **Testes Candidatos à Automação**
-- CTL_001: Acessar a aba 'Produtos' ou 'Produto/{_id} como usuário não autenticado
-- CTL_002: Buscar produtos;
-- CTL_003: Buscar produto por ID existente;
-- CTL_006: Cadastrar um produto com nome já utilizado por outro produto;
-- CTL_009: Alterar o nome de um produto por outro com nome já utilizado;
-- CTL_010: Ao alterar, se não for encontrado um produto com o mesmo nome, um novo será criado;
+- CT_001: Acessar a aba 'Produtos' ou 'Produto/{_id} como usuário não autenticado
+- CT_002: Buscar produtos;
+- CT_003: Buscar produto por ID existente;
+- CT_006: Cadastrar um produto com nome já utilizado por outro produto;
+- CT_009: Alterar o nome de um produto por outro com nome já utilizado;
+- CT_010: Ao alterar, se não for encontrado um produto com o mesmo nome, um novo será criado;
 
 # 5. Local dos Testes
 Todos os testes foram criados e testados localmente no meu computador pessoal pelo endereço: http://localhost:3000, o qual emula o ambiente da API.
