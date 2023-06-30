@@ -53,10 +53,16 @@ O objetivo do teste é garantir que as áreas descritas acima sejam testadas uti
 - CTU_023: Excluir um usuário com ID existente;
 - CTU_024: Excluir um usuário com ID inexistente;
 - CTU_025: Excluir um usuário COM/SEM produtos no carrinho;
-- CTU_025: Excluir um usuário COM/SEM produtos no carrinho;
 - CTU_026: Excluir um usuário previamente excluído;
 
 ### **Testes Candidatos à Automação**
+- CTU_001: Buscar usuários;
+- CTU_002: Buscar um usuário com ID existente;
+- CTU_004: Criar um usuário preenchendo TODOS os campos (nome, email, senha e administrador);
+- CTU_014: Alterar dados de um usuário com o ID dele.
+- CTU_023: Excluir um usuário com ID existente;
+- CTU_025: Excluir um usuário COM/SEM produtos no carrinho;
+- CTU_026: Excluir um usuário previamente excluído;
 
 
 ## 4.2 **🔑 [/Login]**
@@ -75,7 +81,7 @@ O objetivo do teste é garantir que as áreas descritas acima sejam testadas uti
 - CTL_003: Logar com email e senha corretos, mas com a mesma senha em CAPSLOCK;
 - CTL_004: Logar com email e senha inválidos (não cadastrados);
 - CTL_005: Logar com email correto, mas com senha incorreta;
-- CTL_006: Logar com email incorreto, mas com senha;
+- CTL_006: Logar com email incorreto, mas com senha correta;
 - CTL_007: Logar com o(s) campo(s) 'email' e 'senha' em branco;
 - CTL_008: Após sucesso ao autenticar, verificar se foi gerado o Token de acesso;
 - CTL_009: Verificar se o token Bearer tem duração prevista para 10 minutos;
@@ -84,6 +90,12 @@ O objetivo do teste é garantir que as áreas descritas acima sejam testadas uti
 
 
 ###  **Testes Candidatos à Automação**
+- CTL_001: Logar com email e senha corretos (já cadastrado);
+- CTL_002: Logar com email e senha corretos, mas com o mesmo email em CAPSLOCK;
+- CTL_003: Logar com email e senha corretos, mas com a mesma senha em CAPSLOCK;
+- CTL_004: Logar com email e senha inválidos (não cadastrados);
+- CTL_008: Após sucesso ao autenticar, verificar se foi gerado o Token de acesso;
+- CTL_009: Verificar se o token Bearer tem duração prevista para 10 minutos;
 
 ## 4.3 **📦 [/Produtos]**
 
@@ -107,6 +119,12 @@ O objetivo do teste é garantir que as áreas descritas acima sejam testadas uti
 - CTL_010: Ao alterar, se não for encontrado um produto com o mesmo nome, um novo será criado;
 
 ### **Testes Candidatos à Automação**
+- CTL_001: Acessar a aba 'Produtos' ou 'Produto/{_id} como usuário não autenticado
+- CTL_002: Buscar produtos;
+- CTL_003: Buscar produto por ID existente;
+- CTL_006: Cadastrar um produto com nome já utilizado por outro produto;
+- CTL_009: Alterar o nome de um produto por outro com nome já utilizado;
+- CTL_010: Ao alterar, se não for encontrado um produto com o mesmo nome, um novo será criado;
 
 # 5. Local dos Testes
 Todos os testes foram criados e testados localmente no meu computador pessoal pelo endereço: http://localhost:3000, o qual emula o ambiente da API.
@@ -126,10 +144,8 @@ Todos os testes foram criados e testados localmente no meu computador pessoal pe
 
 
 ## 7. Cronograma
-| Tipo de teste      | data de início  | data de término  |
+| Tipo de Teste      | Data de Início  | Data de Término  |
 | ------------------ | --------------- | ---------------- |
-| Execução           | 19/06/2023      | 29/06/2023       |
+| Planejamento       | 19/06/2023      | 23/06/2023
+| Execução           | 23/06/2023      | 29/06/2023       |
 | Avaliação          | 30/06/2023      | 30/06/2023       |
-
-
-
