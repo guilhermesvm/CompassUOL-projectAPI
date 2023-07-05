@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Img/dia5.png" alt="BannerDia5" width="700px" height="263px">
+    <img src="Img/dia7.png" alt="BannerDia7" width="700px" height="263px">
     <h1> Dia 7 </h1>
     <p>[Análise HTTP e API REST](#Análise HTTP e API REST)</p>
     <p>[Mapas Mentais](#Mapas Mentais)</p>
