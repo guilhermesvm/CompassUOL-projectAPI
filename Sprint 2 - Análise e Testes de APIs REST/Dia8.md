@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Img/dia5.png" alt="BannerDia5" width="700px" height="263px">
+    <img src="Img/dia8.png" alt="BannerDia8" width="700px" height="263px">
     <h1> Dia 8 </h1>
     <p>[Introdução ao Postman](#Introdução ao Postman)</p>
     <p>[Postman em 1 Hora](#Postman em 1 Hora)</p>
