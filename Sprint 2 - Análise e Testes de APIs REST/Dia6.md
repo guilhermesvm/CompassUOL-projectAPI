@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Img/dia5.png" alt="BannerDia5" width="700px" height="263px">
+    <img src="Img/dia6.png" alt="BannerDia6" width="700px" height="263px">
     <h1> Dia 6 </h1>
     <p>[Priorização em Diferentes Aplicações](#Priorização em Diferentes Aplicações)</p>
 </div>
