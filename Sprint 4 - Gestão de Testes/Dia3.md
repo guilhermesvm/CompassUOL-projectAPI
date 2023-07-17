@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Img/dia3.png" alt="BannerDia2" width="700px" height="263px">
+    <img src="Img/dia3.png" alt="BannerDia3" width="700px" height="263px">
     <h1> Dia 3</h1>
     <p>[Gestão de Issues - Jira](#Gestão de Issues - Jira)</p>
 </div>
