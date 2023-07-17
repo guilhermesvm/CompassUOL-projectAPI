@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Img/dia4.png" alt="BannerDia2" width="700px" height="263px">
+    <img src="Img/dia4.png" alt="BannerDia4" width="700px" height="263px">
     <h1> Dia 4</h1>
     <p>[Análise de Riscos em Testes](#Análise de Riscos em Testes)</p>
     <p>[Ciclo de Testes](#Ciclo de Testes)</p>
