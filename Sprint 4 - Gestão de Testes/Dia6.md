@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="Img/dia4.png" alt="BannerDia2" width="700px" height="263px">
-    <h1> Dia 4</h1>
+    <img src="Img/dia6.png" alt="BannerDia6" width="700px" height="263px">
+    <h1> Dia 6</h1>
     <p>[Boas práticas para escrita de testes](#Boas práticas para escrita de testes)</p>
     <p>[Dicas para Escrever Bons Testes de Unidade](#Dicas para Escrever Bons Testes de Unidade)</p>
 </div>
