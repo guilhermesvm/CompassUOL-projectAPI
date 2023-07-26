@@ -7,7 +7,7 @@ Será dividido em 6 Sprints, com a duração de 15 dias cada. Ao final de cada S
 - [Sprint 1](https://gitlab.com/guilhermesm/projeto-compass.uol/-/tree/pb_sprint1?ref_type=heads) - Processos Ágeis e Fundamentos de Teste
 - [Sprint 2](https://gitlab.com/guilhermesm/projeto-compass.uol/-/tree/pb_sprint2?ref_type=heads) - Análise e Testes de APIs REST
 - [Sprint 3](https://gitlab.com/guilhermesm/projeto-compass.uol/-/tree/pb_sprint3?ref_type=heads) - Automação de Testes com RestAssured
-- [Sprint 4]() - DoD, DoR e boas práticas com RestAssured
+- [Sprint 4](https://gitlab.com/guilhermesm/projeto-compass.uol/-/tree/pb_sprint4?ref_type=heads) - DoD, DoR e boas práticas com RestAssured
 - [Sprint 5]() - RestAssured++
 - [Sprint 6]() - Docker, CI e Challenge Final
 
