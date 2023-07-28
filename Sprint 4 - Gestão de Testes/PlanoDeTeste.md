@@ -206,14 +206,15 @@ O objetivo do teste é garantir que as áreas descritas acima sejam testadas uti
 - CT_004: Cadastrar um produto no carrinho sem estar autenticado;
 - CT_005: Cadastrar um produto no carrinho;
 - CT_006: Cadastrar um produto com quantidades maiores do que a do estoque no carrinho;
-- CT_007: Cadastrar um produto inexistente no carrinho
-- CT_008: Cadastrar um produto com a quantidade "0" ou em branco.
+- CT_007: Cadastrar um produto inexistente no carrinho;
+- CT_008: Cadastrar um produto com a quantidade 0;
 - CT_009: Cadastrar um produto que já existe no carrinho.
 - CT_010: Concluir uma compra sem estar autenticado;
 - CT_011: Concluir uma compra;
 - CT_012: Concluir uma compra com carrinho inexistente;
 - CT_013: Cancelar uma compra sem estar autenticado;
-- CT_013: Cancelar uma compra;
+- CT_014: Cancelar uma compra;
+- CT_015: Cancelaruma compra com carrinho inexistente;
 
 ### **Testes Candidatos à Automação**
 
