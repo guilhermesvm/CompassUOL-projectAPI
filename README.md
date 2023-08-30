@@ -13,7 +13,7 @@ Será dividido em 6 Sprints, com a duração de 15 dias cada. Ao final de cada S
 
 * Imagem ilustrativa que mostra todo caminho percorrido.
 <div align="center">
-    <img src="img/trilha-compass" alt="trilha-compass" width="470px" height="290px">
+    <img src="img/trilha-compass.jpg" alt="trilha-compass" width="470px" height="290px">
 </div>
 
 
