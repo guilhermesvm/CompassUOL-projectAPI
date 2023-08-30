@@ -11,5 +11,10 @@ Será dividido em 6 Sprints, com a duração de 15 dias cada. Ao final de cada S
 - [Sprint 5](https://gitlab.com/guilhermesm/projeto-compass.uol/-/tree/pb_sprint5?ref_type=heads) - RestAssured++
 - [Sprint 6](https://gitlab.com/guilhermesm/compass-challenge-final) - Docker, CI e Challenge Final
 
+* Imagem ilustrativa que mostra todo caminho percorrido.
+<div align="center">
+    <img src="img/" alt="img/trilha-compass" width="470px" height="290px">
+</div>
+
 
 
