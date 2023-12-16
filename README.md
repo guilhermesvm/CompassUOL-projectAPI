@@ -1,5 +1,5 @@
 <div align="center">
-    ![Logo do Sprint](Img/sprint01redi4.png)
+    <img src="Img/sprint01redi4.png" alt="Logo do Sprint" width="700px" height="263px">
     <h1> Sprint 1 - Processos Ágeis e Fundamentos de Teste </h1>
 </div>
 
